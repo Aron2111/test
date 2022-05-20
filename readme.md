@@ -5,8 +5,7 @@ for authentication / autherization check these toturials / docs:
     code:
     https://coding-bits.net/blog/hasura-login-docker
     explanation:
-    https://hasura.io/docs/latest/graphql/core/auth/authentication/jwt/
-    
+    https://hasura.io/docs/latest/graphql/core/auth/authentication/jwt/ 
     securing endpoint docs for docker / Heroku / Kubernetes / digital Ocean:
     https://hasura.io/docs/latest/graphql/core/deployment/securing-graphql-endpoint/
 
